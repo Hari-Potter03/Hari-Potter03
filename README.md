@@ -1,9 +1,8 @@
 # Srihari Srinivasan
 
 <a href="[https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/srihari-srinivasan-58748b24b/)">
-  <img src="https://www.linkedin.com/badges/profile/create/js?user=your-username" alt="LinkedIn Badge" />
+  <img src="https://platform.linkedin.com/badges/js/profile.js" alt="LinkedIn Badge" />
 </a>
-
 
 ## Skills
 - Programming Languages: JavaScript, Python, ...
