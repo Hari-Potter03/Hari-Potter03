@@ -16,5 +16,5 @@
 ## Contact Me
 You can reach me at [your@email.com](mailto:your@email.com).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hari-Potter03)](https://github.com/Hari-Potter03/github-readme-stats)
 
