@@ -17,7 +17,11 @@
     <img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt = "LaTeX Badge">
   </a>
     
-- Web Development: HTML, CSS, ...
+- IDEs:
+  <div id = "badges">
+    <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt = "Jupyter Badge">
+  </a>
+  
 
 ## Projects
 - [Project 1](link_to_project_1)
