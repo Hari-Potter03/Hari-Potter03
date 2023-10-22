@@ -20,7 +20,4 @@
 - [Project 1](link_to_project_1)
 - [Project 2](link_to_project_2)
 
-## Contact Me
-You can reach me at [your@email.com](mailto:your@email.com).
-
 [![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hari-Potter03)](https://github.com/Hari-Potter03/github-readme-stats)
