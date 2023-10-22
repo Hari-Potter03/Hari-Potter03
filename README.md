@@ -21,6 +21,7 @@
   <div id = "badges">
     <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt = "Jupyter Badge">
     <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt = "RStudio Badge">
+    <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "VSCode Badge">
   </a>
   
 
