@@ -1,8 +1,5 @@
-# Your Name
+# Srihari Srinivasan
 ![Your Profile Picture](link_to_your_picture)
-
-## About Me
-I'm a passionate developer with a love for open source and programming. ...
 
 ## Skills
 - Programming Languages: JavaScript, Python, ...
