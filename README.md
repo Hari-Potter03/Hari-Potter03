@@ -24,6 +24,13 @@
     <img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt = "VSCode Badge">
   </a>
 
+- Database
+  <div id = "badges">
+    <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt = "MySQL Badge">
+    <img src = "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt = "ORACLE Badge">
+    <img src = "https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt = "SQLite Badge">
+  </a>
+  
 ## Projects
 - [Predicting Likelihood of Diabetes](/Diabetes)
 - [Project 2](link_to_project_2)
