@@ -20,6 +20,7 @@
 - IDEs:
   <div id = "badges">
     <img src = "https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt = "Jupyter Badge">
+    <img src = "https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" alt = "RStudio Badge">
   </a>
   
 
