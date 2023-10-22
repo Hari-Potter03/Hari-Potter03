@@ -6,7 +6,7 @@
   <a href="mailto:srsr9160@colorado.edu">
     <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   <a href="">
-    <a href="https://your-resume-url.pdf">
+    <a href="https://drive.google.com/file/d/17qCSk6ORicQNdV8qxbvRRpJO8Hqx_-6j/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-2A3FFB?style=for-the-badge&logo=standardresume&logoColor=white" alt="Resume Badge">
 </a>
 
