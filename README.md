@@ -13,6 +13,9 @@
 - Languages:
   <div id = "badges">
     <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue", alt = "Python Badge">
+    <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue", alt = "R Badge">
+    <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue", alt = "SQL Badge">
+    <img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white", alt = "LaTeX Badge">
   </a>
     
 - Web Development: HTML, CSS, ...
