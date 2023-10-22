@@ -9,11 +9,12 @@
     <img src="https://img.shields.io/badge/Resume-2A3FFB?style=for-the-badge&logo=https://as1.ftcdn.net/v2/jpg/02/11/95/72/1000_F_211957246_SHaM7voAuL82bFAtA86WBIXr6zT6CeLU.jpg&logoColor=white" alt="Resume Badge">
 </a>
 
-  
-  
-
 ## Skills
-- Programming Languages: JavaScript, Python, ...
+- Languages:
+  <div id = "badges">
+    <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue", alt = "Python Badge">
+  </a>
+    
 - Web Development: HTML, CSS, ...
 
 ## Projects
