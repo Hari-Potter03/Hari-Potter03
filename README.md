@@ -33,6 +33,6 @@
   
 ## Projects
 - [Predicting Likelihood of Diabetes](https://github.com/Hari-Potter03/Diabetes)
-- [Project 2](link_to_project_2)
+- [Volleyball Improvement Dashboard](link_to_project_2)
 
 [![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hari-Potter03)](https://github.com/Hari-Potter03/github-readme-stats)
