@@ -34,5 +34,3 @@
 ## Projects
 - [Predicting Likelihood of Diabetes](https://github.com/Hari-Potter03/Diabetes)
 - [Volleyball Improvement and Skill Performance Dashboard](https://github.com/Hari-Potter03/CU_Volleyball_Performance)
-
-[![Srihari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hari-Potter03)](https://github.com/Hari-Potter03/github-readme-stats)
