@@ -34,3 +34,4 @@
 ## Projects
 - [Predicting Likelihood of Diabetes](https://github.com/Hari-Potter03/Diabetes)
 - [Volleyball Improvement and Skill Performance Dashboard](https://github.com/Hari-Potter03/CU_Volleyball_Performance)
+- [Titanic Survival Predictor](https://github.com/Hari-Potter03/Titanic-EDA-Classification)
